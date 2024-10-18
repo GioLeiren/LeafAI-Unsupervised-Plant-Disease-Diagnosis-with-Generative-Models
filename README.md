@@ -1,6 +1,6 @@
 # Plant Disease Diagnosis with Pix2Pix Model
 
-![comparison](image samples/comparison.jpg)
+![comparison](images/comparison.jpg)
 
 ## Project Overview
 This repository contains the implementation of a generative AI model for diagnosing plant leaf diseases. The approach is based on the work of [Katafuchi and Tokunaga (2020)](https://arxiv.org/pdf/2011.14306), utilizing a pix2pix model for generating healthy plant leaves and detecting anomalies by comparing color differences between healthy and diseased leaves. The goal is to create a system that can automatically diagnose diseases in plants using an unsupervised anomaly detection method.
